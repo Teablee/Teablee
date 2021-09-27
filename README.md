@@ -16,9 +16,13 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Tracy</h1>
 <h3 align="center">A passionate data scientist from Tucson, AZ.</h3>
+<h3 align="center">I have a strong foundation in front end and back end development and I am most comfortable with Python.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=teablee&label=Profile%20views&color=0e75b6&style=flat" alt="teablee" /> </p>
 
+- 🔭 I’m currently working on ... New machine learning projects to add to my GitHub.
+- 🤔 I’m looking for help with ... Transitioning to the data science field full-time.
+- 💬 Ask me about ... Anything microbiology related 
 - 📫 How to reach me **tea1986@gmail.com**
 
 
