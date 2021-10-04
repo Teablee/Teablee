@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=teablee&label=Profile%20views&color=0e75b6&style=flat" alt="teablee" /> </p>
 
 - 🔭 I’m currently working on ... New machine learning projects to add to my GitHub.
-- 💬 Ask me about ... Anything microbiology related 
+- 💬 Ask me about ... Anything microbiology related. 
 - 📫 How to reach me **tea1986@gmail.com**
 
 
