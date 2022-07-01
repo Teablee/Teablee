@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Tracy</h1>
 <h3 align="center">A passionate scientist (microbiologist) and data enthusiast from Tucson, AZ.</h3>
 <h3 align="center">I have a strong foundation in front end and back end development and I am most comfortable with Python as a programming language.</h3>
-<h3 align="center">I am very interested in data warehousing, data lakes, and data exchange as I am helping develop a data modernization strategic plan for my current role supporting the Department of Health in Alaska. 
+<h3 align="center">I am very interested in data warehousing, data lakes, and data exchange as I am helping develop a data modernization strategic plan for my current role supporting the Department of Health in Alaska.</h3> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=teablee&label=Profile%20views&color=0e75b6&style=flat" alt="teablee" /> </p>
 
