@@ -17,12 +17,10 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Tracy</h1>
 <h3 align="center">A passionate scientist (microbiologist) and data enthusiast from Tucson, AZ.</h3>
 <h3 align="center">I have a strong foundation in front end and back end development and I am most comfortable with Python as a programming language.</h3>
-<h3 align="center">I am very interested in data warehousing, data lakes, and data exchange as I am helping develop a data modernization strategic plan for my current role supporting the Department of Health in Alaska.</h3> 
+<h3 align="center">I am very interested in data modernization in public health.</h3> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=teablee&label=Profile%20views&color=0e75b6&style=flat" alt="teablee" /> </p>
 
-- 🔭 I’m currently working on 2 project ideas I had about making a monsoon dashboard for our desert monsoon season in Tucson and also a wine rating predictor based on region and weather.
-- 💬 Ask me about ... Anything microbiology related to fermentation as I have dabbled in the brewing industry.  
 - 📫 How to reach me **tracytobin86@gmail.com**
 
 
